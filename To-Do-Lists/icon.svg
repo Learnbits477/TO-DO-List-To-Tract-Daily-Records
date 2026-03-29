@@ -1,0 +1,22 @@
+<svg width="500" height="250" viewBox="0 0 500 250" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- LearnBits -->
+    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle"
+          font-family="'Segoe UI', 'Inter', sans-serif"
+          font-weight="800" font-size="64" fill="#000000">
+        LearnBits
+    </text>
+
+    <!-- >Pankaj< -->
+    <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle"
+          font-family="'Segoe UI', 'Inter', sans-serif"
+          font-weight="500" font-size="28" fill="#000000" letter-spacing="2">
+        &gt;Pankaj&lt;
+    </text>
+
+    <!-- underline -->
+    <line x1="210" y1="200" x2="290" y2="200"
+          stroke="#000000" stroke-width="4"
+          stroke-linecap="round" opacity="0.5"/>
+
+</svg>
